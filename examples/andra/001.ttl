@@ -10,5 +10,5 @@ ex:001 a sh:SPARQLExecutable,
     sh:select """
     SELECT * WHERE {?s ?p ?o .} LIMIT 10
 """ ;
-    schema:target <https://sparql.swat4hcls.org/sparql/>.
+    schema:target <https://sparql.swat4hcls.org/sparql/> .
        
